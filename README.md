@@ -1,3 +1,15 @@
-# Try-hack-me
-In this repo i have solved some TRY HACK ME rooms,Which are very helpful in my journey and learning.
-I try to make these rooms in my words which you can read or solve the rooms of try hack me.
+After solving the rooms of try hack me i land in the top 25%
+## Completed Labs:
+- Network Fundamentals
+- Web Exploitation
+- Privilege Escalation
+
+## Skills Gained:
+- Nmap scanning
+- Enumeration
+- Exploitation techniques
+
+## Tools Used:
+- Nmap
+- Burp Suite
+- Metasploit
