@@ -1,4 +1,4 @@
-After solving the rooms of try hack me i land in the top 25% of the world.
+After solving the rooms of try hack me i land in the top 20% of the world.
 
 Completed Labs:
 - Linux Fundamentals part 1
